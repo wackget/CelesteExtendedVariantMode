@@ -153,6 +153,8 @@ namespace ExtendedVariants.Module {
             VariantHandlers[Variant.SnowballDelay] = new SnowballDelay();
             VariantHandlers[Variant.AddSeekers] = new AddSeekers();
             VariantHandlers[Variant.DisableSeekerSlowdown] = new DisableSeekerSlowdown();
+            VariantHandlers[Variant.HarmlessSeekers] = new HarmlessSeekers();
+            VariantHandlers[Variant.MuteSeekerSounds] = new MuteSeekerSounds();
             VariantHandlers[Variant.TheoCrystalsEverywhere] = new TheoCrystalsEverywhere();
             VariantHandlers[Variant.AllowThrowingTheoOffscreen] = new AllowThrowingTheoOffscreen();
             VariantHandlers[Variant.AllowLeavingTheoBehind] = new AllowLeavingTheoBehind();
